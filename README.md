@@ -1,11 +1,6 @@
 # Java Programming: A Complete source that take you from zero to super java developer
 
-https://img.shields.io/badge/Java-8%2520-%252024-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-https://img.shields.io/badge/build-passing-success
-
-## Topics covered in the course
+## Topics covered in this Repo
 
 * Section 1: Let's Say Hello to Java
 * Section 2: Primitive data types in Java
@@ -39,7 +34,7 @@ https://img.shields.io/badge/build-passing-success
 * Section 30: Java 25 new features
   
 
-⭐ Show Your Support
+### ⭐ Show Your Support
 
 If you find this repository helpful, please consider:
 
