@@ -11,11 +11,11 @@ public class AssignmentOperatorDemo {
         dNum2 = 6.58;
         System.out.println(dNum1);
 
-        Person person1 = new Person("Madan");
-        Person person2 = new Person("Saanvi");
+        Person person1 = new Person("Mathi");
+        Person person2 = new Person("Yuvarajan");
         person1 = person2;
         System.out.println(person1.name);
-        person2.name = "SAANVI";
+        person2.name = "YUVARAJAN";
         System.out.println(person1.name);
         person1.name = "John";
         System.out.println(person2.name);
