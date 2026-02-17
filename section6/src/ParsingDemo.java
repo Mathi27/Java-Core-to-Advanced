@@ -11,7 +11,7 @@ public class ParsingDemo {
         long num3 = Long.parseLong(strLong);
         String strBoolean = "true";
         boolean isTrue = Boolean.parseBoolean(strBoolean);
-        String strName = "madan";
+        String strName = "mathi";
         boolean isName = Boolean.parseBoolean(strName);
         String hello = "Hello";
         char firstChar = hello.charAt(0);

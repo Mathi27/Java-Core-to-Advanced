@@ -7,7 +7,7 @@ public class Employee {
     static final String EMPLOYER_NAME = "Google";
 
     public Employee() {
-        this("Will", "Smith", (byte) 55, 'M');
+        this("Mathi", "Yuvarajan", (byte) 55, 'M');
         System.out.println("Object is getting created in Default Constructor.....");
     }
 

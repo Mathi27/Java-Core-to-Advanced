@@ -8,7 +8,7 @@
  * </p>
  *
  * @see MultiLineCommentsDemo
- * @author  Madan Reddy
+ * @author  Mathi Yuvarajan
  * @since 1.0
  */
 public class JavaDocCommentsDemo {

@@ -1,7 +1,7 @@
 public class TextBlockDemo {
 
     public static void main(String[] args) {
-        String input = "Hello, my name is John \n" +
+        String input = "Hello, my name is Mathi \n" +
                 "and I am 25 years old.";
         System.out.println(input);
 

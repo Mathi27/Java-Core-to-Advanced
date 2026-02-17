@@ -2,8 +2,8 @@ public class StringFormatDemo {
 
     public static void main(String[] args) {
         String message = "Hello, %s ! You have %d messages.";
-        String msgForMadan = String.format(message, "Madan", 3);
-        String msgForSaanvi = String.format(message, "Saanvi", 6);
+        String msgForMathi = String.format(message, "Mathi", 3);
+        String msgForYuvarajan= String.format(message, "Yuvarajan", 6);
 
         String message1 = "The price is $%.2f";
         String price1 = String.format(message1, 19.99);

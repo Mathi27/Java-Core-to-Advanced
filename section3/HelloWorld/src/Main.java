@@ -1,4 +1,4 @@
 void main() {
-    IO.println("Hello Madan");
+    IO.println("Hello Mathi");
     System.out.print("Hi Java");
 }
