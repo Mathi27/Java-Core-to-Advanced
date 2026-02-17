@@ -2,8 +2,8 @@ package com.eazybytes.app;
 
 import com.eazybytes.model.Class1;
 import com.eazybytes.model.Employee;
-import com.eazybytes.model.Person;
 import com.eazybytes.model.Vehicle;
+import com.mathi27.model.Person;
 
 import static com.eazybytes.utility.MyConstants.*;
 import static java.lang.Math.PI;

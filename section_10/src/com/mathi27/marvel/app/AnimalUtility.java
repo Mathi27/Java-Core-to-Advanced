@@ -1,0 +1,25 @@
+package com.mathi27.marvel.app;
+
+import com.mathi27.marvel.animals.Cat;
+import com.mathi27.marvel.animals.Dog;
+import com.mathi27.marvel.base.Animal;
+
+public class AnimalUtility {
+
+    public static void printName(Animal animal) {
+        System.out.println(animal.getName());
+        animal.eat();
+    }
+
+    public static void performAction(Animal animal) {
+        animal.eat();
+        if(animal instanceof Dog) {
+            Dog dog = (Dog) animal;
+            dog.bark();
+        } else if (animal instanceof Cat cat) { // Java 16
+            cat.meow();
+        }
+
+    }
+
+}
