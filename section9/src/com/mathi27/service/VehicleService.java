@@ -1,4 +1,4 @@
-package com.eazybytes.service;
+package com.mathi27.service;
 
 public class VehicleService {
 }

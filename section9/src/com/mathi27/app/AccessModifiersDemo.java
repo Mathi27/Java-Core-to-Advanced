@@ -1,4 +1,4 @@
-package com.eazybytes.app;
+package com.mathi27.app;
 
 public class AccessModifiersDemo {
 

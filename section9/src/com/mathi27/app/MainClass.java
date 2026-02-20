@@ -1,11 +1,11 @@
-package com.eazybytes.app;
+package com.mathi27.app;
 
-import com.eazybytes.model.Class1;
-import com.eazybytes.model.Employee;
-import com.eazybytes.model.Vehicle;
+import com.mathi27.model.Class1;
+import com.mathi27.model.Employee;
 import com.mathi27.model.Person;
+import com.mathi27.model.Vehicle;
 
-import static com.eazybytes.utility.MyConstants.*;
+import static com.mathi27.utility.MyConstants.*;
 import static java.lang.Math.PI;
 
 public class MainClass {
@@ -25,7 +25,7 @@ public class MainClass {
         System.out.println(PI);
 
         Class1 model = new Class1();
-        com.eazybytes.service.Class1 service = new com.eazybytes.service.Class1();
+        com.mathi27.service.Class1 service = new com.mathi27.service.Class1();
 
         MyOuterClass.MyInnerClass myInnerClass = new MyOuterClass.MyInnerClass();
         myInnerClass.display();

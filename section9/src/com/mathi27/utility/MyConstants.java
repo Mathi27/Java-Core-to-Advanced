@@ -1,4 +1,4 @@
-package com.eazybytes.utility;
+package com.mathi27.utility;
 
 public class MyConstants {
 
